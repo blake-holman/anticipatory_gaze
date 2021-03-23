@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.introductiontohtcvivestarter.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\akash\\vr_hallway\\unity\\vr_hallway\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Introduction To HTC Vive - Starter [Testing]"
+        }
+      }
+    }
+  ]
+}
